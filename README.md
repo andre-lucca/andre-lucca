@@ -3,7 +3,7 @@
   Seja bem-vindo(a) ao meu perfil!
 </h1>
 
-### Eu sou Full Stack Engineer e atualmente trabalho com tecnologias Web.
+### Eu sou Full-stack Engineer e atualmente trabalho com tecnologias Web.
 
 ### Meu [LinkedIn](https://linkedin.com/in/andre-luca/).
 
