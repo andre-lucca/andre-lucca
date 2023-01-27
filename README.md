@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center">
+  Oi! 👋 Meu nome é Andre Luca <br>
+  Seja bem-vindo(a) ao meu perfil!
+</h1>
 
-<!--
-**andre-lucca/andre-lucca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Eu sou Full Stack Engineer e atualmente trabalho com tecnologias Web.
 
-Here are some ideas to get you started:
+### Meu [LinkedIn](https://linkedin.com/in/andre-luca/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tecnologias que trabalho:
+
+<div align="center">
+  <a href="#" />
+  <img width="100" src="https://skillicons.dev/icons?i=html" />
+  <img width="100" src="https://skillicons.dev/icons?i=css" />
+  <img width="100" src="https://skillicons.dev/icons?i=js" />
+  <img width="100" src="https://skillicons.dev/icons?i=ts" />
+  <img width="100" src="https://skillicons.dev/icons?i=react" />
+  <img width="100" src="https://skillicons.dev/icons?i=nodejs" />
+</div>
+
+#
+
+<div align="center">
+  <a href="#" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=andre-lucca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <br> <br>
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-lucca&layout=compact&langs_count=7&theme=dracula" /> <br>
+</div>
