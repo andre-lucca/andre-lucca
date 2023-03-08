@@ -9,7 +9,7 @@
 
 # Tecnologias que trabalho:
 
-<div align="center">
+<div>
   <a href="#" />
   <img width="50" src="https://skillicons.dev/icons?i=html" />
   <img width="50" src="https://skillicons.dev/icons?i=css" />
@@ -21,7 +21,7 @@
 
 #
 
-<div align="center">
+<div>
   <a href="#" />
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=andre-lucca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <br> <br>
