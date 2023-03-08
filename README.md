@@ -17,6 +17,8 @@
   <img width="50" src="https://skillicons.dev/icons?i=ts" />
   <img width="50" src="https://skillicons.dev/icons?i=react" />
   <img width="50" src="https://skillicons.dev/icons?i=nodejs" />
+  <img width="50" src="https://skillicons.dev/icons?i=sql" />
+  <img width="50" src="https://skillicons.dev/icons?i=tailwind" />
 </div>
 
 #
