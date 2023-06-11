@@ -7,17 +7,17 @@
 
 ### Meu [LinkedIn](https://linkedin.com/in/andre-luca/).
 
-# Tecnologias que trabalho:
+## Tecnologias que trabalho:
 
 <div>
   <a href="#" />
-  <img width="50" src="https://skillicons.dev/icons?i=html" />
-  <img width="50" src="https://skillicons.dev/icons?i=css" />
-  <img width="50" src="https://skillicons.dev/icons?i=js" />
-  <img width="50" src="https://skillicons.dev/icons?i=ts" />
-  <img width="50" src="https://skillicons.dev/icons?i=react" />
-  <img width="50" src="https://skillicons.dev/icons?i=nodejs" />
-  <img width="50" src="https://skillicons.dev/icons?i=tailwind" />
+  <img width="40" src="https://skillicons.dev/icons?i=html" />
+  <img width="40" src="https://skillicons.dev/icons?i=css" />
+  <img width="40" src="https://skillicons.dev/icons?i=js" />
+  <img width="40" src="https://skillicons.dev/icons?i=ts" />
+  <img width="40" src="https://skillicons.dev/icons?i=react" />
+  <img width="40" src="https://skillicons.dev/icons?i=nodejs" />
+  <img width="40" src="https://skillicons.dev/icons?i=tailwind" />
 </div>
 
 #
