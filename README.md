@@ -16,8 +16,10 @@
   <img width="40" src="https://skillicons.dev/icons?i=js" />
   <img width="40" src="https://skillicons.dev/icons?i=ts" />
   <img width="40" src="https://skillicons.dev/icons?i=react" />
-  <img width="40" src="https://skillicons.dev/icons?i=nodejs" />
+    <img width="40" src="https://skillicons.dev/icons?i=next" />
+  <img width="40" src="https://skillicons.dev/icons?i=sass" />
   <img width="40" src="https://skillicons.dev/icons?i=tailwind" />
+    <img width="40" src="https://skillicons.dev/icons?i=nodejs" />
 </div>
 
 #
